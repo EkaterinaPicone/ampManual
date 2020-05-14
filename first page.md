@@ -10,7 +10,7 @@ Log in using your registered **User Name** and **Password**
 
 Select **Login** to advance to the next screen and begin using the AMP
 
-![1a](https://drive.google.com/drive/u/0/folders/11o634i0vxclmGlCln_Gpu7f8c9_ewPXU)
+![1a](https://github.com/EkaterinaPicone/ampManual/blob/master/images/1a%20%281%29.jpg?raw=true)
 
 **Tip:**
 
@@ -35,5 +35,6 @@ If the side bar of your Assets Management Portal colored red or the letters are 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc0MTE3NzddfQ==
+eyJoaXN0b3J5IjpbLTE4NDAyMDc1ODYsMTc2Njk5NTgyLC0xNT
+c1NTEzNTA4LC0xNTY3NDExNzc3XX0=
 -->
