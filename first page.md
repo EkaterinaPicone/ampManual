@@ -17,9 +17,9 @@ Select **Login** to advance to the next screen and begin using the AMP
 If you forgot your User Name or Password, click on **Forgot your password**
 
 The following window appears, allowing for the information to be re-sent to the indicated email of a registered user
-![1b](https://drive.google.com/drive/u/0/folders/11o634i0vxclmGlCln_Gpu7f8c9_ewPXU)
+![1b](https://github.com/EkaterinaPicone/ampManual/blob/master/images/1b%282%29.jpg?raw=true)
 2. Select “Assets Management Portal”:
-![1c](https://drive.google.com/drive/u/0/folders/11o634i0vxclmGlCln_Gpu7f8c9_ewPXU)
+
 
 **Note:**
 
@@ -35,6 +35,6 @@ If the side bar of your Assets Management Portal colored red or the letters are 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAyMDc1ODYsMTc2Njk5NTgyLC0xNT
-c1NTEzNTA4LC0xNTY3NDExNzc3XX0=
+eyJoaXN0b3J5IjpbNTMzMzM5MDE3LC0xODQwMjA3NTg2LDE3Nj
+Y5OTU4MiwtMTU3NTUxMzUwOCwtMTU2NzQxMTc3N119
 -->
