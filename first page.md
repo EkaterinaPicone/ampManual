@@ -19,7 +19,7 @@ If you forgot your User Name or Password, click on **Forgot your password**
 The following window appears, allowing for the information to be re-sent to the indicated email of a registered user
 ![1b](https://github.com/EkaterinaPicone/ampManual/blob/master/images/1b%282%29.jpg?raw=true)
 2. Select “Assets Management Portal”:
-
+![1c](https://github.com/EkaterinaPicone/ampManual/blob/master/images/1c%20%283%29.jpg?raw=true)
 
 **Note:**
 
@@ -35,6 +35,6 @@ If the side bar of your Assets Management Portal colored red or the letters are 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMzM5MDE3LC0xODQwMjA3NTg2LDE3Nj
+eyJoaXN0b3J5IjpbNzI2MzM0Mzg5LC0xODQwMjA3NTg2LDE3Nj
 Y5OTU4MiwtMTU3NTUxMzUwOCwtMTU2NzQxMTc3N119
 -->
