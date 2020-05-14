@@ -33,7 +33,8 @@ Grey color of the letters indicates that the user is not authorized by the admin
 
 If the side bar of your Assets Management Portal colored red or the letters are gray, contact your administrator for assistance.
 
-![1a]<img src="github.com/EkaterinaPicone/ampManual/blob/master/images/1a%20%281%29.jpg">
+![1a](src="https://github.com/EkaterinaPicone/ampManual/blob/master/images/1a%20%281%29.jpg")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjA3ODI0OSwtMTU2NzQxMTc3N119
+eyJoaXN0b3J5IjpbLTE1NzU1MTM1MDgsLTE1Njc0MTE3NzddfQ
+==
 -->
